@@ -1,4 +1,4 @@
-Thanks for downloading this theme!
+Apanhando do Git
 
 ## Other Useful Links
 
