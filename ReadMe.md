@@ -1,25 +1,65 @@
-Apanhando do Git
+# 💈 Portifólio Barbearia 
 
-## Other Useful Links
+Projeto desenvolvido durante o curso de HTML e CSS do Curso Tecnico em Desenvolvimento de Sistemas - SenacEad, com o objetivo de criar uma página web simples e responsiva para uma barbearia fictícia.
 
-**ThemeWagon** is a great source for downloading free HTML templates built with the latest technology.
+## 🚀 Tecnologias Utilizadas
 
-To download free templates, follow this link: https://themewagon.com/theme_tag/free/
+- HTML5
+- CSS3
 
-Besides that, you can buy our premium templates for making your web development experience unforgettable.
+## 📄 Descrição
 
-Visit the store from here: https://themewagon.com/theme-categories/premium-templates/
+Este projeto consiste em um site de uma barbearia, com páginas contendo:
 
-Alternatively, here's our top most trending and selling items:
+- Página inicial com apresentação da barbearia
+- Seção com informações sobre os serviços oferecidos
+- Galeria com imagens do ambiente
+- Contato e informações de localização
 
-* [**Sparrow**](https://themewagon.com/themes/sparrow/) - A multipurpose template made with Bootstrap 4.1 and world's finest animation.
-* [**Posh**](https://themewagon.com/themes/posh-html5-bootstrap-4-template/) - Bootstrap 4 template with a myriad number of ready-to-deploy sections. 
-* [**Elixir**](https://themewagon.com/themes/elixir-elegant-html5-bootstrap-template-consultancy-agency-website/) - Bootstrap 4 agency template. Best for smooth animated scrolling. 
-* [**Freya**](https://themewagon.com/themes/bootstrap-4-premium-interior-design-template-freya/) - Interior design template made with Bootstrap 4. 
-* [**Reign Pro**](https://themewagon.com/themes/reign-pro-premium-corporate-agency-html5-template/) - A corporate template with a visually unique design scheme. 
-* [**Boots4**](https://themewagon.com/themes/first-ever-bootstrap-4-template/) - One of the first Bootstrap 4 templates ever made on earth. 
-* [**Hideaway**](https://themewagon.com/themes/hideaway/) - A template for resorts. Built with Bootstrap 4. 
-* [**Baikal**](https://themewagon.com/themes/bootstrap-4-startup-small-business-website-template/) - A smart Bootstrap template for start-up. 
-* [**Mega Discount**](https://themewagon.com/themes/mega-discount-bundle/) - A bundle of 26 HTML5 templates; best value for your money. 
+O foco foi a aplicação de boas práticas de estruturação HTML e estilização com CSS, incluindo:
+
+- Flexbox para layout
+- Estilização de textos e botões
+- Responsividade básica
+
+## 📸 Demonstração
+
+![Imagem do site](https://via.placeholder.com/800x400.png?text=Preview+do+site)
+
+> Obs: Substitua a imagem acima por um print real do seu projeto, ou adicione um link para o GitHub Pages se você estiver hospedando o site.
+
+## 📁 Estrutura de Pastas
+
+Barbearia/ ├── css/ │ └── style.css ├── img/ │ └── (imagens utilizadas no projeto) ├── index.html
+
+bash
+Copiar
+Editar
+
+## 📌 Como visualizar o projeto
+
+Você pode clonar este repositório e abrir o arquivo `index.html` em qualquer navegador moderno:
+
+```bash
+git clone https://github.com/Carlosaleee/Barbearia.git
+cd Barbearia
+Depois, basta abrir o arquivo index.html.
+
+🧑‍💻 Autor
+Desenvolvido por Carlos Alexandre
+
+
+📚 Projeto com fins educacionais, inspirado no Curso Tecnico em Desenvolvimento de Sistemas - SenacEad.
+
+yaml
+Copiar
+Editar
+
+
+
+
+
+
+
 
 
